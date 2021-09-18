@@ -4,9 +4,9 @@ import (
 	"log"
 	"testing"
 
-	"github.com/robertkrimen/otto/ast"
-	"github.com/robertkrimen/otto/file"
-	"github.com/robertkrimen/otto/parser"
+	"github.com/zhimingdai/otto/ast"
+	"github.com/zhimingdai/otto/file"
+	"github.com/zhimingdai/otto/parser"
 )
 
 type walker struct {
